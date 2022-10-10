@@ -1,2 +1,2 @@
-# Spark3-Tutorials
+# Spark3
 Spark repository for all practice examples.
